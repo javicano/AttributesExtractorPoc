@@ -1,6 +1,3 @@
-# AttributesExtractorPoc
-Attributes Extractor Poc
-
 # Attributes Extractor Poc
 
 This java project is a Proof of Concept for the attributes extractor implemented in PhishingFilterTool
